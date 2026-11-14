@@ -4,6 +4,7 @@
 |---|---|---|---|---|---|
 | 2026-11-06 | Daily set | 15 | 3 | 11 | 1 |
 | 2026-11-10 | Daily set | 15 | 3 | 11 | 1 |
+| 2026-11-13 | Daily set | 14 | 3 | 10 | 1 |
 
 **LeetCode baseline (at repo start):** 152 solved — 121 Easy · 29 Medium · 2 Hard · Rating 1,371
 
